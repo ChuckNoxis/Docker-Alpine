@@ -1,9 +1,6 @@
 # ---- Docker - Alpine based ----
 FROM docker:stable
 
-#Set the timezone to Paris
-ENV TZ=Europe/Paris
-
 RUN \
     apk update \
     # install bash util-linux and openssh

@@ -1,2 +1,2 @@
 # Docker-Alpine
-Install bash and util-linux in docker:stable based on alpine.
+Install bash openssh and util-linux in docker:stable based on alpine.

@@ -1,5 +1,5 @@
 # ---- Docker - Alpine based ----
-FROM docker:stable
+FROM docker:23-cli
 
 RUN \
     apk update \
